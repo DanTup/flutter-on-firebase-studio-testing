@@ -1,0 +1,11 @@
+{
+	"dart.toolingDaemonAdditionalArgs": [
+		"--port=8100"
+	],
+	"dart.flutterRunAdditionalArgs": [
+		"--host-vmservice-port=8101"
+	],
+	"dart.analyzerLogFile": "logs/analyzer.txt",
+	"dart.toolingDaemonLogFile": "logs/dtd.txt",
+	"dart.devToolsLogFile": "logs/devtools.txt",
+}
