@@ -15,6 +15,8 @@
           "run"
           "--machine"
           "-d"
+          "android"
+          "-d"
           "localhost:5555"
         ];
         manager = "flutter";

@@ -3,7 +3,7 @@
 	"configurations": [
 		{
 			"name": "Flutter App",
-			"request": "launch",
+			"request": "attach",
 			"type": "dart",
 			"deviceId": "localhost:5555"
 		}
